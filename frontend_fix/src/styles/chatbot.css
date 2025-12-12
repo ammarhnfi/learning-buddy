@@ -1,0 +1,72 @@
+/* Import Tailwind's base, components, and utilities */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Define custom styles and utilities.
+  We use @layer components to add our own component styles.
+*/
+@layer components {
+  /* Animation for the chat window */
+  .animate-fade-in-up {
+    animation: fade-in-up 0.3s ease-out;
+  }
+
+  @keyframes fade-in-up {
+    from {
+      opacity: 0;
+      transform: translateY(20px) scale(0.95);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0) scale(1);
+    }
+  }
+
+  /* Custom scrollbar for the chat window */
+  .chat-window-scrollbar {
+    scrollbar-width: thin;
+    scrollbar-color: #a0aec0 #e2e8f0; /* thumb and track */
+  }
+
+  .dark .chat-window-scrollbar {
+    scrollbar-color: #4a5568 #2d3748;
+  }
+
+  .chat-window-scrollbar::-webkit-scrollbar {
+    width: 6px;
+  }
+
+  .chat-window-scrollbar::-webkit-scrollbar-track {
+    background: #e2e8f0;
+    border-radius: 10px;
+  }
+  
+  .dark .chat-window-scrollbar::-webkit-scrollbar-track {
+    background: #2d3748;
+  }
+
+  .chat-window-scrollbar::-webkit-scrollbar-thumb {
+    background-color: #a0aec0;
+    border-radius: 10px;
+    border: 3px solid #a0aec0;
+  }
+  
+  .dark .chat-window-scrollbar::-webkit-scrollbar-thumb {
+     background-color: #4a5568;
+     border-color: #4a5568;
+  }
+
+  /* Class for the auto-hide utility */
+  .hide-widget {
+    transform: translateY(150%);
+  }
+
+  /* Simple animation delays for the typing indicator */
+  .animation-delay-200 {
+    animation-delay: 0.2s;
+  }
+  .animation-delay-400 {
+    animation-delay: 0.4s;
+  }
+}

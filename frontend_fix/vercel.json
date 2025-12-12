@@ -1,0 +1,41 @@
+{
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist",
+  "rewrites": [
+    {
+      "source": "/api/:path*",
+      "destination": "https://ammarhnfi-learning-buddy.hf.space/:path*"
+    },
+    {
+      "source": "/chat/:path*",
+      "destination": "https://ammarhnfi-learning-buddy.hf.space/chat/:path*"
+    },
+    {
+      "source": "/roadmap/:path*",
+      "destination": "https://ammarhnfi-learning-buddy.hf.space/roadmap/:path*"
+    },
+    {
+      "source": "/recommend/:path*",
+      "destination": "https://ammarhnfi-learning-buddy.hf.space/recommend/:path*"
+    },
+    {
+      "source": "/dashboard/:path*",
+      "destination": "https://ammarhnfi-learning-buddy.hf.space/dashboard/:path*"
+    },
+    {
+      "source": "/courses/:path*",
+      "destination": "https://ammarhnfi-learning-buddy.hf.space/courses/:path*"
+    },{
+      "source": "/skill/:path*",
+      "destination": "https://ammarhnfi-learning-buddy.hf.space/skill/:path*"
+    },
+    {
+      "source": "/:path*",
+      "destination": "/index.html"
+    }
+  ],
+  "env": {
+    "VITE_API_URL": "https://ammarhnfi-learning-buddy.hf.space",
+    "VITE_BACKEND_URL": "https://ammarhnfi-learning-buddy.hf.space"
+  }
+}
