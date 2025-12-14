@@ -6,7 +6,7 @@ function Home() {
             {/* Hero Section */}
             <div className="bg-white dark:bg-gray-800 rounded-2xl shadow-sm p-8 md:p-12 text-center border border-gray-200 dark:border-gray-700">
                 <h1 className="text-4xl font-extrabold text-gray-900 dark:text-white mb-4">
-                    Buddy Learning adalah...
+                    Learning Buddy adalah...
                 </h1>
                 <p className="text-xl text-gray-600 dark:text-gray-300 max-w-3xl mx-auto">
                     Teman belajar pribadimu yang siap membantu kapan saja. Dapatkan rekomendasi materi,
@@ -18,7 +18,7 @@ function Home() {
             <div className="space-y-8">
                 <div className="text-center">
                     <h2 className="text-3xl font-bold text-gray-900 dark:text-white inline-block px-6 py-2 border-2 border-gray-900 dark:border-white rounded-full">
-                        Kenapa BuddyLearning...
+                        Kenapa Learning Buddy...
                     </h2>
                 </div>
 
@@ -59,7 +59,7 @@ function Home() {
             <div className="border-t-2 border-gray-200 dark:border-gray-700 pt-8 mt-12">
                 <div className="grid grid-cols-1 md:grid-cols-3 gap-8 text-center md:text-left">
                     <div>
-                        <h4 className="text-lg font-bold text-gray-900 dark:text-white mb-2">BuddyLearning</h4>
+                        <h4 className="text-lg font-bold text-gray-900 dark:text-white mb-2">Learning Buddy</h4>
                         <p className="text-gray-500 dark:text-gray-400">
                             Jl. Batik Kumeli No.50, Bandung
                         </p>
@@ -74,7 +74,7 @@ function Home() {
                     <div>
                         <h4 className="text-lg font-bold text-gray-900 dark:text-white mb-2">Hubungi Kami</h4>
                         <ul className="space-y-1 text-gray-500 dark:text-gray-400">
-                            <li>support@buddylearning.com</li>
+                            <li>support@learningbuddy.com</li>
                             <li>+62 812 3456 7890</li>
                         </ul>
                     </div>
