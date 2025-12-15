@@ -1,0 +1,76 @@
+course_id,learning_path_id,course_name,course_level_str,hours_to_study
+1,1,Belajar Dasar AI,1,10
+2,1,Belajar Fundamental Deep Learning,3,110
+3,1,Belajar Machine Learning untuk Pemula,2,90
+4,1,Machine Learning Terapan,4,80
+5,1,Membangun Proyek Deep Learning Tingkat Mahir,4,90
+6,1,Memulai Pemrograman dengan Python,1,60
+7,2,Belajar Fundamental Aplikasi Android,3,140
+8,2,Belajar Membuat Aplikasi Android untuk Pemula,2,60
+9,2,Belajar Pengembangan Aplikasi Android Intermediate,4,150
+10,2,Belajar Prinsip Pemrograman SOLID,3,15
+11,2,Memulai Pemrograman dengan Kotlin,1,50
+12,2,Menjadi Android Developer Expert,5,90
+13,3,Architecting on AWS (Membangun Arsitektur Cloud di AWS),3,40
+14,3,Belajar Back-End Pemula dengan JavaScript,2,50
+15,3,Belajar Dasar Cloud dan Gen AI di AWS,1,18
+16,3,Belajar Dasar Pemrograman JavaScript,1,46
+17,3,Belajar Fundamental Back-End dengan JavaScript,3,90
+18,3,Menjadi Back-End Developer Expert dengan JavaScript,4,82
+19,3,Menjadi Node.js Application Developer,3,57
+20,4,Belajar Back-End Pemula dengan Python,2,40
+21,4,Belajar Dasar Google Cloud,1,12
+22,4,Belajar Fundamental Back-End dengan Python,3,65
+23,4,Memulai Pemrograman dengan Python,1,60
+24,4,Menjadi Google Cloud Architect,4,35
+25,4,Menjadi Google Cloud Engineer,3,42
+26,5,Belajar Analisis Data dengan Python,2,70
+27,5,Belajar Dasar Data Science,1,11
+28,5,Belajar Dasar Structured Query Language (SQL),1,11
+29,5,Belajar Machine Learning untuk Pemula,2,90
+30,5,Belajar Matematika untuk Data Science,3,70
+31,5,Belajar Penerapan Data Science,4,110
+32,5,Memulai Pemrograman dengan Python,1,60
+33,6,Belajar Dasar-Dasar DevOps,1,15
+34,6,Belajar Implementasi CI/CD,3,30
+35,6,Belajar Jaringan Komputer untuk Pemula,2,25
+36,6,Belajar Membangun Arsitektur Microservices,4,60
+37,6,Menjadi Linux System Administrator,3,25
+38,7,Belajar Dasar Pemrograman JavaScript,1,46
+39,7,Belajar Dasar Pemrograman Web,1,45
+40,7,Belajar Fundamental Front-End Web Development,3,80
+41,7,Belajar Membuat Front-End Web untuk Pemula,2,45
+42,7,Belajar Pengembangan Web Intermediate,4,80
+43,8,Belajar Dasar AI,1,10
+44,8,Belajar Fundamental Deep Learning,3,110
+45,8,Belajar Machine Learning untuk Pemula,2,90
+46,8,Memulai Pemrograman dengan Python,1,60
+47,8,Prompt Engineering untuk Software Developer,1,16
+48,9,Belajar Dasar Google Cloud,1,12
+49,9,Belajar Dasar Pemrograman JavaScript,1,46
+50,9,Belajar Membuat Aplikasi Back-End untuk Pemula dengan Google Cloud,2,45
+51,9,Menjadi Google Cloud Architect,4,35
+52,9,Menjadi Google Cloud Engineer,3,42
+53,10,Belajar Fundamental Aplikasi iOS,3,70
+54,10,Belajar Membuat Aplikasi iOS untuk Pemula,2,40
+55,10,Belajar Prinsip Pemrograman SOLID,3,15
+56,10,Memulai Pemrograman Dengan Swift,1,40
+57,10,Menjadi iOS Developer Expert,4,70
+58,11,Belajar Dasar AI,1,10
+59,11,Belajar Fundamental Deep Learning,3,110
+60,11,Belajar Machine Learning untuk Pemula,2,90
+61,11,Machine Learning Operations (MLOps),4,80
+62,11,Membangun Sistem Machine Learning,4,90
+63,11,Memulai Pemrograman dengan Python,1,60
+64,12,Belajar Fundamental Aplikasi Flutter,3,90
+65,12,Belajar Membuat Aplikasi Flutter untuk Pemula,2,40
+66,12,Belajar Pengembangan Aplikasi Flutter Intermediate,4,80
+67,12,Belajar Prinsip Pemrograman SOLID,3,15
+68,12,Memulai Pemrograman dengan Dart,1,30
+69,12,Menjadi Flutter Developer Expert,5,85
+70,13,Belajar Dasar Pemrograman JavaScript,1,46
+71,13,Belajar Dasar Pemrograman Web,1,45
+72,13,Belajar Fundamental Aplikasi Web dengan React,3,55
+73,13,Belajar Membuat Aplikasi Web dengan React,2,35
+74,13,Belajar Membuat Front-End Web untuk Pemula,2,45
+75,13,Menjadi React Web Developer Expert,4,70
